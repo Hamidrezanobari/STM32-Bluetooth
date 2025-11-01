@@ -1,6 +1,6 @@
 # STM32 Bluetooth Development Board (stm32withBluetooth)
 
-**A compact STM32WB55-based development board with USB-C, RTC & SWD — designed for BLE-enabled embedded projects.**
+**A compact STM32WB55-based development board with USB-C, designed for BLE-enabled embedded projects.**
 
 
 ---
